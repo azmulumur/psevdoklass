@@ -1,0 +1,2 @@
+# psevdoklass
+psevdoklass
